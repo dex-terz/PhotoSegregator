@@ -1,0 +1,12 @@
+backend/venv/
+backend/__pycache__/
+backend/core/__pycache__/
+backend/photos.db
+__pycache__/
+*.py[cod]
+frontend/node_modules/
+frontend/dist/
+frontend/*.local
+~$*
+~WRL*.tmp
+test_photos/
